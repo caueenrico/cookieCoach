@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+  
+  --fs-heading: 2.4rem;
+  --ff-heading: 'Montserrat', sans-serif;
+
+  --fs-subt: 1.5rem;
+  --ff-subt: 'DM Sans',sans-serif;
+}
+
+body{
+  
+}
+
+main{
+  margin: 0 auto;
+  
+}
